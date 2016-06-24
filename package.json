@@ -1,0 +1,26 @@
+{
+  "name": "ocomponents",
+  "version": "0.0.2",
+  "description": "Component Library",
+  "main": "./Components/index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build:dev": "npm run build:components",
+    "build:publish": "npm run build:components && npm publish ./build",
+    "build:components": "babel ./Components --out-dir ./build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariolo1985/ocomponents.git"
+  },
+  "author": "M Lo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariolo1985/ocomponents/issues"
+  },
+  "homepage": "https://github.com/mariolo1985/ocomponents#readme",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
