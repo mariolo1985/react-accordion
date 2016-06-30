@@ -5,7 +5,7 @@ I need to update it to be more generic but I'm unsure how others would use this.
 
 This is a header and body accordion built in react
 
-[Here is a working html example](www.kinfonglo.com/react-accordion/index.html) I **promise** it works as a module haha
+[Here is a working html example](http://www.kinfonglo.com/react-accordion/index.html) I **promise** it works as a module haha
 
 
 # Accordions
