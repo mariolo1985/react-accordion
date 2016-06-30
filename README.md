@@ -1,5 +1,5 @@
 >Note: This is a work-in-progress.
->I need to update it to be more generic but I'm unsure how others would use this.  Any feedback is appreciated.
+I need to update it to be more generic but I'm unsure how others would use this.  Any feedback is appreciated.
 
 # React Accordion
 
